@@ -49,6 +49,8 @@ With hands-on experience in developing ML/DL models, analyzing complex datasets,
 ###
 
 <!-- 🐍 Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/osamaahnned/osamaahnned/output/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/osamaahnned/osamaahnned/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
