@@ -45,23 +45,10 @@ With hands-on experience in developing ML/DL models, analyzing complex datasets,
   </a>
 </div>
 
-###
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=osamaahnned&label=Profile%20views&color=0e75b6&style=flat)
-</p>
-
-<p align="center">
-  ![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaahnned&show_icons=true&theme=default)
-</p>
-
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=osamaahnned&theme=default)](https://git.io/streak-stats)
-</p>
 
 ###
 
 <!-- 🐍 Snake Animation -->
-<img src="https://raw.githubusercontent.com/osamaahnned/osamaahnned/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/osamaahnned/osamaahnned/output/snake.svg)
 
 ###
